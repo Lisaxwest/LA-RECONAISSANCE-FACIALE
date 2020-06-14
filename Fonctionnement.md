@@ -6,7 +6,7 @@
 ![Vidéo sur le fonctionnement de la reconnaissance faciale](images/youtube1.png)
 
 
-| AFP Animé. "Reconnaissance faciale, comment ça marche ?"[en ligne]. In YouTube. 4 avril 2019 [consulté le 14 juin 2020]. 1 min 29 secondes. Disponible sur le web : <https://www.youtube.com/watch?v=189Y7u6moT8> |
+| AFP Animé. "Reconnaissance faciale, comment ça marche ?"[en ligne]. In YouTube. 4 avril 2019 [consulté le 06 juin 2020]. 1 min 29 secondes. Disponible sur le web : <https://www.youtube.com/watch?v=189Y7u6moT8> |
 
 ![Fonctionnement de la reconnaissance faciale](images/Fonction1.png)
 
