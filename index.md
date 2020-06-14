@@ -4,7 +4,7 @@
 
 Ce site mets à disposition des documents pour vous offrir des informations diverses et fiables sur cette nouvelle technologie qu'est "La reconnaissance faciale". 
 
-## 1. [Définition](definition.md) 
+## 1. [Définition](Définitions.md) 
 
 ## 2. [Historique](Historique.md)
 
