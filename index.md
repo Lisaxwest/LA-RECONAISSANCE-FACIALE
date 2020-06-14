@@ -2,7 +2,7 @@
 
 
 
-Ce site mets à disposition des documents pour vous offrir des informations diverses et fiables sur cette nouvelle technologie qu'est "La reconnaissance faciale". 
+Ce site mets à disposition des documents pour vous offrir des informations diverses et fiables sur cette nouvelle technologie qu'est **"La reconnaissance faciale"**. 
 
 ## 1. [Définition](Définitions.md) 
 
