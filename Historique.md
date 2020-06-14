@@ -6,7 +6,7 @@
 
 | L, Bastien. "Reconnaissance faciale : qu’est-ce que c’est et quels sont les dangers ?" [en ligne] *LeBigData*. 23 octobre 2019. [Consulté le 06 juin 2020]. Disponible sur le Web : <https://www.lebigdata.fr/reconnaissance-faciale-tout-savoir> |
 
-![Historique de la reconnaissance faciale](images/Histrorique 1.png)
+![Historique de la reconnaissance faciale](images/Histrorique1.png)
 
 ![Historique de la reconnaissance faciale](images/Historique.png)
 
