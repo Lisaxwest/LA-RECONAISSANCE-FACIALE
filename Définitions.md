@@ -11,4 +11,4 @@
 ![Définition de la reconnaissance faciale n°2](images/DEF21.png)
 ![Définition de la reconnaissance faciale n°2](images/DEF2.png)
 
-| L, Bastien. Reconnaissance faciale : qu’est-ce que c’est et quels sont les dangers ?[en ligne] *LeBigData*. 23 octobre 2019. [Consulté le 06 juin 2020]. Disponible sur le Web : <https://www.lebigdata.fr/reconnaissance-faciale-tout-savoir> |
+| L, Bastien. "Reconnaissance faciale : qu’est-ce que c’est et quels sont les dangers ?" [en ligne] *LeBigData*. 23 octobre 2019. [Consulté le 06 juin 2020]. Disponible sur le Web : <https://www.lebigdata.fr/reconnaissance-faciale-tout-savoir> |
