@@ -12,4 +12,4 @@
 ![Législation 2](images/L2.png)
 ![Législation 2](images/L3.png)
 
-| NUFFEL, Pieter Van. "L’Europe veut introduire des règles strictes en matière de reconnaissance faciale"[en ligne]. In *DataNews* 22 août 2019. [consulté le 2 juin 2020]. Disponible sur le Web : <https://datanews.levif.be/ict/actualite/l-europe-veut-introduire-des-regles-strictes-en-matiere-de-reconnaissance-faciale/article-news-1180207.html> |
+| NUFFEL, Pieter Van. "L’Europe veut introduire des règles strictes en matière de reconnaissance faciale"[en ligne]. In *DataNews* 22 août 2019 [consulté le 2 juin 2020]. Disponible sur le Web : <https://datanews.levif.be/ict/actualite/l-europe-veut-introduire-des-regles-strictes-en-matiere-de-reconnaissance-faciale/article-news-1180207.html> |
