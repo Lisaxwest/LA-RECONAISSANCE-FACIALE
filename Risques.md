@@ -16,4 +16,4 @@
 ![Risque de la reconnaissance faciale 3](images/R7.png)
 ![Risque de la reconnaissance faciale 3](images/R8.png)
 
-| L, Bastien. "Reconnaissance faciale : qu’est-ce que c’est et quels sont les dangers ?" [en ligne] In *LeBigData*. 23 octobre 2019 [consulté le 6 juin 2020]. Disponible sur le Web : <https://www.lebigdata.fr/reconnaissance-faciale-tout-savoir> |
+| L, Bastien. "Reconnaissance faciale : qu’est-ce que c’est et quels sont les dangers ?" [en ligne]. In *LeBigData*. 23 octobre 2019 [consulté le 6 juin 2020]. Disponible sur le Web : <https://www.lebigdata.fr/reconnaissance-faciale-tout-savoir> |
