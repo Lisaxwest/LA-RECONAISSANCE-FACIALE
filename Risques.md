@@ -4,7 +4,7 @@
 
 ![Risque de la reconnaissance faciale 2](images/Ri2.png)
 
-| JACOB, Julie. "La reconnaissance faciale : entre hypersécurité et hyper intrusion" [en ligne]. In *JDN* Mise à jour le 20 octobre 2019. [Consulté le 10 juin 2020]. Disponible sur le web : <https://www.journaldunet.com/solutions/dsi/1445564-la-reconnaissance-faciale-entre-hypersecurite-et-hyper-intrusion/> |
+| JACOB, Julie. "La reconnaissance faciale : entre hypersécurité et hyper intrusion" [en ligne]. In *JDN*. Mise à jour le 20 octobre 2019 [consulté le 10 juin 2020]. Disponible sur le Web : <https://www.journaldunet.com/solutions/dsi/1445564-la-reconnaissance-faciale-entre-hypersecurite-et-hyper-intrusion/> |
 
 
 ![Risque de la reconnaissance faciale 3](images/R1.png)
@@ -16,4 +16,4 @@
 ![Risque de la reconnaissance faciale 3](images/R7.png)
 ![Risque de la reconnaissance faciale 3](images/R8.png)
 
-| L, Bastien. "Reconnaissance faciale : qu’est-ce que c’est et quels sont les dangers ?" [en ligne] In *LeBigData*. 23 octobre 2019. [Consulté le 6 juin 2020]. Disponible sur le Web : <https://www.lebigdata.fr/reconnaissance-faciale-tout-savoir> |
+| L, Bastien. "Reconnaissance faciale : qu’est-ce que c’est et quels sont les dangers ?" [en ligne] In *LeBigData*. 23 octobre 2019 [consulté le 6 juin 2020]. Disponible sur le Web : <https://www.lebigdata.fr/reconnaissance-faciale-tout-savoir> |
