@@ -14,9 +14,9 @@
 
 ![Utilité de cette technologie 2.1](images/U.2.1.png)
 
-|FOURNIER, Geneviève. "La CNIL ouvre le débat sur l’utilisation de la reconnaissance faciale en France"[en ligne]. In *Siècle Digital*. 21 novembre 2019. [consulté le 8 juin 2020]. Disponible à l’adresse : <https://siecledigital.fr/2019/11/21/la-cnil-ouvre-le-debat-sur-lutilisation-de-la-reconnaissance-faciale-en-france/> |
+|FOURNIER, Geneviève. "La CNIL ouvre le débat sur l’utilisation de la reconnaissance faciale en France"[en ligne]. In *Siècle Digital*. 21 novembre 2019. [consulté le 8 juin 2020]. Disponible sur le Web : <https://siecledigital.fr/2019/11/21/la-cnil-ouvre-le-debat-sur-lutilisation-de-la-reconnaissance-faciale-en-france/> |
 
 
 ![Utilité de cette technologie 3.1](images/U.3.1.png)
 
-|"Reconnaissance Faciale - Glossaire Netatmo"[en ligne]. In *Netatmo*. [s. d.] [consulté le 3 juin 2020]. Disponible sur le Web : <https://www.netatmo.com/fr-fr/glossaire/reconnaissance-faciale> |
+|NETATMO. "Reconnaissance Faciale - Glossaire Netatmo"[en ligne]. In *Netatmo*. [s. d.] [consulté le 3 juin 2020]. Disponible sur le Web : <https://www.netatmo.com/fr-fr/glossaire/reconnaissance-faciale> |
